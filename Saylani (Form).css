@@ -1,0 +1,20 @@
+form{
+    background-color: rgb(106,90,205);
+    text-align: left;
+}
+h2{
+    font-family: Arial, Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 180%;
+    color: rgb(48, 25, 192);
+    font-stretch: ultra-expanded;
+    letter-spacing: 1px;
+    text-decoration: underline;
+    text-decoration: b;
+}
+td{ vertical-align: top;
+}
+
+button{
+    margin: 5px;
+}
